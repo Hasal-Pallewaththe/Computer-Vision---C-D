@@ -11,3 +11,4 @@ Third CNN,
     - the results graphs are given for only 20 epochs, (since this take more time to calculated 100 epochs)
 
 sometimes, the google colaboratory was used to get results since is uses faster GPU acceleration
+more Deep NN models,
