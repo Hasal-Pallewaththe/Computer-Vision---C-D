@@ -3,6 +3,6 @@
 * Implementing a classification CNN to classify photos of Dogs and Cats.
 * Implementing a camera calibration
 
-* Important Notes
+* __Important Notes__
     * please add the data to the folder and
     * please add
