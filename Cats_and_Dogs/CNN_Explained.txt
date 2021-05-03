@@ -1,0 +1,13 @@
+First CNN,
+    - use two 128 neurons convolutional layers at the middle with regulation l2 (for reduce overfitting)
+    - the results graphs are given for only 35 epochs, (since this take more time to calculated 100 epochs)
+
+second CNN,
+    - does not use the middle 128 neurons convolutional layers and dence layer size is reduced to 128 neurons
+    - the results graphs are given for only 20 epochs, (since this take more time to calculated 100 epochs)
+
+Third CNN,
+    - does not use the middle 128 neurons convolutional layers and dence layer size is  to 512 neurons
+    - the results graphs are given for only 20 epochs, (since this take more time to calculated 100 epochs)
+
+sometimes, the google colaboratory was used to get results since is uses faster GPU acceleration
